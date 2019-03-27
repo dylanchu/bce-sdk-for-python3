@@ -739,7 +739,7 @@ class BosClient(BceBaseClient):
         :type key: string
         :param key: None
 
-        :type file_name: string, StringIO, BytesIO
+        :type file_name: string or StringIO or BytesIO
         :param file_name: None
 
         :type options: dict
